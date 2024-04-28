@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Brayden Todd
-- 👀 I’m interested in Backend Software Engineering
-- 🌱 I’m currently learning DevOps, AWS, Microsoft Azure, and Google Cloud
-- 💞️ I’m looking to collaborate with a team to help grow the company and become a better software engineer.
+- 👋 Hi, I’m Brayden Todd,
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently enrolled into Western Govenors University study for a Bachelors in Cybersecurity and Information Assurance.
+- 💞️ I’m looking to collaborate with a team to help grow the company and become a better cybersecurity professional.
 - 📫 How to reach me: Email: bstodd17@gmail.com, Phone: (602) 326-9504
 
 <!---
