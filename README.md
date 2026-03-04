@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brayden Todd,
 - 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently enrolled into Western Govenors University study for a Bachelors in Cybersecurity and Information Assurance.
+- 🌱 I’m currently enrolled into Western Governors University, studying for a Bachelor's in Cybersecurity and Information Assurance.
 - 💞️ I’m looking to collaborate with a team to help grow the company and become a better cybersecurity professional.
 - 📫 How to reach me: Email: bstodd17@gmail.com, Phone: (480) 648-4792
 
